@@ -1,0 +1,3 @@
+system-disk.vmdk*
+userdata-disk.qcow2
+*.zip
